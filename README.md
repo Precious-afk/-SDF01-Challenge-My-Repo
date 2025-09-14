@@ -38,40 +38,23 @@ This portfolio will grow as I improve my skills and create real-world applicatio
 To view this project locally:
 
 ```bash
-# Clone the repository
-git clone https://github.com/Precious-afk/my-first-website-portfolio.git
-
-# Navigate into the project
-cd my-first-website-portfolio
+git clone https://github.com/Precious-afk/-SDF01-Challenge-My-Repo.git
+cd -SDF01-Challenge-My-Repo
 
 🛤️ Learning Journey & Progress
-
-Here’s a snapshot of my journey as a beginner developer:
-
 ✅ Set up Git & GitHub
-
 ✅ Create first repository
-
 ✅ Add README.md
-
 ✅ Commit & Push changes to GitHub
-
 ⬜ Learn HTML5
-
 ⬜ Learn CSS3
-
 ⬜ Learn JavaScript
-
 ⬜ Learn React
-
 ⬜ Build first real-world project
 
 👤 Author
-
 Precious Nicodemus – Beginner Software Developer
-
 GitHub: @Precious-afk
-
 LinkedIn: Precious Nicodemus
 
 📧 Email: nicodemusprecious5@gmail.com
